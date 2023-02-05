@@ -3,11 +3,12 @@
 Essentially revamped Gym1.0
 
 Features:
--Calculating Lifting Skill
--Creating WorkoutProgram of Exercises
--Ability to remove Exerices
--Ability to printList
--Calculating totalReps
--Input Validation
+
+  1. Calculating Lifting Skill
+  2. Creating WorkoutProgram of Exercises
+  3. Ability to remove Exerices
+  4. Ability to printList
+  5. Calculating totalReps
+  6. Input Validation
 
 Basic OOP program in C++.
