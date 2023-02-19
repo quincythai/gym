@@ -1,14 +1,14 @@
-# Gym2.0
+# Gym
 
-Essentially revamped Gym1.0
+Object oriented programming in C++
 
-Features:
+Implemented key aspects of OOP: abstraction, encapsulation, classes, objects, input validation
 
-  1. Calculating Lifting Skill
-  2. Creating WorkoutProgram of Exercises
-  3. Ability to remove Exerices
-  4. Ability to printList
-  5. Calculating totalReps
-  6. Input Validation
+## Features:
 
-Basic OOP program in C++.
+1. Calculating Lifting Skill
+2. Creating WorkoutProgram of Exercises
+3. Ability to remove Exercises
+4. Ability to printList
+5. Calculating totalReps
+6. Input Validation
